@@ -43,7 +43,7 @@ audio:not([controls]) {
 }
 
 html {
-  font-family: sans-serif;
+  
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -291,22 +291,22 @@ table {
 *,
 *:before,
 *:after {
-  -webkit-box-sizing: border-box;
+  
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
 
 html {
-  font-size: 62.5%;
+
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
 body {
-  font-family: "Cabin", Arial, sans-serif;
-  font-size: 14px;
-  line-height: 1.428571429;
-  color: #ffffff;
-  background-color: #108a93;
+  
+  
+  
+  
+  background-color: #8f1093;
 }
 
 input,
@@ -326,7 +326,7 @@ textarea {
 }
 
 a {
-  color: #e8d069;
+  
   text-decoration: none;
 }
 
@@ -931,10 +931,10 @@ pre code {
 .col-lg-10,
 .col-lg-11,
 .col-lg-12 {
-  position: relative;
+  
   min-height: 1px;
-  padding-right: 15px;
-  padding-left: 15px;
+  
+  
 }
 
 .col-xs-1,
@@ -4248,8 +4248,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar {
-  position: relative;
-  z-index: 1000;
+  
+  
   min-height: 50px;
   margin-bottom: 20px;
   border: 1px solid transparent;
@@ -4257,8 +4257,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 .navbar:before,
 .navbar:after {
-  display: table;
-  content: " ";
+  
+  
 }
 
 .navbar:after {
@@ -4267,32 +4267,32 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 .navbar:before,
 .navbar:after {
-  display: table;
-  content: " ";
+  
+  
 }
 
 .navbar:after {
-  clear: both;
-}
-
-.navbar:before,
-.navbar:after {
-  display: table;
-  content: " ";
-}
-
-.navbar:after {
-  clear: both;
+  
 }
 
 .navbar:before,
 .navbar:after {
-  display: table;
-  content: " ";
+  
+  
 }
 
 .navbar:after {
-  clear: both;
+  
+}
+
+.navbar:before,
+.navbar:after {
+  
+  
+}
+
+.navbar:after {
+  
 }
 
 .navbar:before,
@@ -4307,7 +4307,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 @media (min-width: 768px) {
   .navbar {
-    border-radius: 4px;
+    
   }
 }
 
@@ -4699,12 +4699,12 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-default {
-  background-color: #ad1d28;
-  border-color: #911821;
+  background-color: #f8f8f8;
+  border-color: #ffeaeb;
 }
 
 .navbar-default .navbar-brand {
-  color: #ffffff;
+  color: #ab2687;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -4718,7 +4718,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-default .navbar-nav > li > a {
-  color: #ffffff;
+  color: #b53c9d;
 }
 
 .navbar-default .navbar-nav > li > a:hover,
@@ -5214,7 +5214,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .label-warning {
-  background-color: #debb27;
+  background-color: #000000;
 }
 
 .label-warning[href]:hover,
@@ -5602,8 +5602,8 @@ a.thumbnail:focus {
   display: block;
   padding: 10px 15px;
   margin-bottom: -1px;
-  background-color: transparent;
-  border: 1px solid #0d747c;
+  
+  border: 1px solid #b397ad;
 }
 
 .list-group-item:first-child {
@@ -7323,7 +7323,7 @@ legend {
 }
 
 .list-group-item {
-  background-color: #13a0aa;
+  background-color: #b397ad;
 }
 
 .popover {
